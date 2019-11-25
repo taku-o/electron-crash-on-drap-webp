@@ -1,0 +1,16 @@
+{
+  "name": "american-union-note",
+  "productName": "american-union-note",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "taku-o",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "6.1.5"
+  }
+}
