@@ -11,6 +11,6 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "electron": "6.1.5"
+    "electron": "18.3.7"
   }
 }
